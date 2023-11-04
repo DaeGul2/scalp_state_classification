@@ -18,8 +18,25 @@
 </li>
   
     
+![image](https://github.com/DaeGul2/scalp_state_classification/assets/122341071/e88efeda-2ce9-46eb-a00c-6e2d622f762c)
+<li>
+  사업로드 선택 후 두피사진 올림  
+</li>
+![image](https://github.com/DaeGul2/scalp_state_classification/assets/122341071/47ce9764-f590-4709-b259-9cfc9e9db990)
+파일확인하러가기 클릭
+
+![image](https://github.com/DaeGul2/scalp_state_classification/assets/122341071/8668cc9b-8d97-4618-b145-83431631cdd7)
+![image](https://github.com/DaeGul2/scalp_state_classification/assets/122341071/ff20608c-1f32-44de-b58a-854e39904247)
+
 
 
   
 </ol>
-![image](https://github.com/DaeGul2/scalp_state_classification/assets/122341071/e88efeda-2ce9-46eb-a00c-6e2d622f762c)
+
+
+## 3. flow
+
+![image](https://github.com/DaeGul2/scalp_state_classification/assets/122341071/0325a36e-a59a-41a1-bbd4-ec36fa3756a4)
+
+
+
